@@ -1,0 +1,5 @@
+include manage.py
+include requirements.txt
+include requirements-lock.txt
+recursive-include config *.py
+recursive-include chat *.py
